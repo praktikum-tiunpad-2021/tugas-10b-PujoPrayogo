@@ -3,7 +3,7 @@
 
 > Materi: Graph  
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+ ## PUJO PRAYOGO - 140810200038
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
